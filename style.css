@@ -1,0 +1,18 @@
+nav .container-fluid .navbar-brand img {
+  width: 199.35px;
+  height: 19.99px;
+}
+
+nav .container-fluid .collapse ul li {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* section .container .row .column {
+  position: relative;
+}
+
+section .container .row .column div {
+  position: absolute;
+  top: 80%;
+} */
